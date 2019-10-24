@@ -1,0 +1,62 @@
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.exe.config
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.exe
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.pdb
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csprojAssemblyReference.cache
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.cache
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.exe
+\\studentserver\students\2013\hectorbro\my documents\visual studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.pdb
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.exe.config
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.exe
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\bin\Debug\Gravity.pdb
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.exe
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.pdb
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe.config
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.Cache
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.exe
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.pdb
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe.config
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.exe
+D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravity.pdb
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe.config
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.cache
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.exe
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.pdb
+\\studentserver\Students\2013\hectorbro\My Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\bin\Debug\Gravity.exe.config
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\bin\Debug\Gravity.exe
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\bin\Debug\Gravity.pdb
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.Cache
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.exe
+\\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.pdb
