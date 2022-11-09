@@ -60,3 +60,15 @@ D:\Documents\Visual Studio 2017\Projects\Gravity\Gravity\Gravity\obj\Debug\Gravi
 \\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.Cache
 \\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.exe
 \\studentserver\Students\2013\HectorBRO\Desktop\Gravity\Gravity\obj\Debug\Gravity.pdb
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\bin\Debug\Gravity.exe.config
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.Number.resources
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.cache
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.exe
+C:\Users\hecto\Source\Repos\gravity\Gravity\Gravity\obj\Debug\Gravity.pdb
